@@ -1,0 +1,11 @@
+Add your own screenshots from the AWS console and browser to the screenshots/ folder. Suggested evidence:
+
+S3 bucket showing the uploaded website files
+S3 versioning configuration
+S3 lifecycle rule
+CloudFront distribution and origin configuration
+CloudFront alternate domain names and ACM certificate
+Route 53 hosted zone showing both A-alias records
+Website loaded at https://vinaydevops.xyz      Here use your own domain which you have purchased.
+Website loaded at https://www.vinaydevops.xyz
+Do not include screenshots containing account numbers, billing/payment details, access keys, secret keys, passwords, or other private information. Redact sensitive details before committing screenshots.
