@@ -4,7 +4,7 @@ A static website hosted on **Amazon S3** and delivered through **Amazon CloudFro
 
 ## Live website
 
-- https://vinaydevops.xyz
+- https://vinaydevops.xyz        This doesn't work because i had deleted the source in AWS after finishing the project.
 - https://www.vinaydevops.xyz
 
 ## GitHub repository
